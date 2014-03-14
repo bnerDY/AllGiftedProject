@@ -4,7 +4,7 @@
 Network learning system using ASP.NET MVC5, ClearDB and Windows Azure.
 
 
-CSSE3006, Sem1 2014.
+CSSE3006, Sem1 2014
 
 Course link: http://www.uq.edu.au/study/course.html?course_code=CSSE3006
 
