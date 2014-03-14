@@ -1,4 +1,4 @@
-####All Gifted Learning board for CEED project @ University of Queesland
+####CEED project @ All Gifted LLC & University of Queesland
 ================
 
 Network system using ASP.NET MVC5, ClearDB, Windows Azure
