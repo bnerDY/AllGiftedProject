@@ -1,7 +1,7 @@
 ####CEED project @ All Gifted LLC & University of Queesland
 ================
 
-Network system using ASP.NET MVC5, ClearDB, Windows Azure
+Network learning system using ASP.NET MVC5, ClearDB and Windows Azure.
 
 
 CSSE3006: Special Projects in Computer Systems and Software Engineering 
